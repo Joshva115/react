@@ -1,5 +1,5 @@
 import React from "react";
-import { Form, Button, Container, Card, Row } from "react-bootstrap";
+import { Form, Button, Container, Card } from "react-bootstrap";
 import { useFormik } from "formik";
 import { loginSchema } from "../schemas/validationSchema";
 import "./general.css";
